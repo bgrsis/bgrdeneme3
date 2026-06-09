@@ -16,7 +16,7 @@ eureka:
   sectionName: null
   encrypted: false
   rule: null
-  restartRequired: null
+  restartRequired: true
   defaultValue: null
 jhipster:
   configValueCount: null
