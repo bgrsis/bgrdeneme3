@@ -4,7 +4,7 @@ application:
     salt: "{cipher}6beae1b1902e6b7fad5a61d526179301da06c14a4974391082b550aca1dc609f43ba49923a632bd3bc963c98ae938643"
   keycloak-admin:
     app-realm-id: "sistas"
-    app-resource-id: "cc-solutions"
+    app-resource-id: "cc-solutionsa"
     app-resource-secret: "{cipher}6da8221abf1e271650ae068e64d2b9374b3206a7b329c2549c378f4c55ba28edd01d7f5e4d89b66a7286056435edcc72"
     client-id: "admin-cli"
     max-pool-size: 10
