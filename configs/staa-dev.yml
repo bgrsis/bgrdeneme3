@@ -10,7 +10,7 @@ application:
     max-pool-size: 10
     password: "{cipher}f4f036ec3e07b3481680ee76c7061f65e62dc834268cbd1ef82712b9a2dd1ec0e6c7b34bf638b6fe21a67f5f60380360"
     realm: "master"
-    server-url: "https://keycloak.example.com"
+    server-url: "https://keycloak.example.caom"
     trusted-audiences:
     - "sistas-eva"
     - "sistas-voice"
