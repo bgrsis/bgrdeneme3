@@ -22,10 +22,10 @@ application:
     forbidden-sql-keywords:
     - "DELETE"
     - "DROP"
-    - "TRUNCAT1E"
+    - "TRUNCATE"
     - "ALTER"
     - "UPDATE"
-    - "INSERT2"
+    - "INSERT"
     max-rows: 5000
     mssql-parameter-limit: 2000
     provider-acquire-timeout-ms: 2000
