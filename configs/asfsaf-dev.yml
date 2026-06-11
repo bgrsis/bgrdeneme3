@@ -30,7 +30,7 @@ application:
     mssql-parameter-limit: 2000
     provider-acquire-timeout-ms: 2000
     provider-circuit-failure-threshold: 5
-    provider-circuit-open-seconds: 5
+    provider-circuit-open-seconds: 5123
     provider-max-concurrent: 4
     provider-retry-count: 1
     provider-retry-delay-ms: 250
