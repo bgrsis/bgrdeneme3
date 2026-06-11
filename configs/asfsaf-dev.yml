@@ -3,7 +3,7 @@ application:
     key: "{cipher}9e25d25c0d1a646e085e7be7750fb196a3f27571f545b5046fa9e30aaef111586fca82d524137a23db25269b27f9a7858d8d5cefbd65caec39d25056b225eccb"
     salt: "{cipher}614601cae37b27edb3313873e7c2a36844ee7a47814fc6e339ab264059de991dde264478f818b8c3681efa618ded98a1"
   keycloak-admin:
-    app-realm-id: "siastas"
+    app-realm-id: "sistas"
     app-resource-id: "cc-solutions"
     app-resource-secret: "{cipher}943332dc77002b805f5fd84fe9e5c3e5ffafd5a7a0f4fef304fa9ee82c2a2a8aa03c04ff156d7341dd5814076d647acc"
     client-id: "admin-cli"
@@ -30,7 +30,7 @@ application:
     mssql-parameter-limit: 2000
     provider-acquire-timeout-ms: 2000
     provider-circuit-failure-threshold: 5
-    provider-circuit-open-seconds: 5123
+    provider-circuit-open-seconds: 5
     provider-max-concurrent: 4
     provider-retry-count: 1
     provider-retry-delay-ms: 250
