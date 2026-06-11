@@ -22,7 +22,7 @@ application:
     forbidden-sql-keywords:
     - "DELETE"
     - "DROP"
-    - "TRUNCATE"
+    - "TRUNCAT1E"
     - "ALTER"
     - "UPDATE"
     - "INSERT"
