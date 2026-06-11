@@ -25,7 +25,7 @@ application:
     - "TRUNCAT1E"
     - "ALTER"
     - "UPDATE"
-    - "INSERT"
+    - "INSERT2"
     max-rows: 5000
     mssql-parameter-limit: 2000
     provider-acquire-timeout-ms: 2000
